@@ -1,4 +1,4 @@
-# anightinjapan
+# A Night In Japan
 
 Done as a part of the course Command Line for Creatives at SuperHi.
 
